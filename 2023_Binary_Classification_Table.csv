@@ -1,0 +1,11 @@
+,Activity Type,Lactate,Aspartic Acid,Threonine,Serine,Glutamine,Proline,Glycine,Alanine,Valine,Methionine,Isoleucine,Leucine,Tyrosine,Phenylalanine,Ornithine,Lysine,Histidine,Tryptophan,Arginine
+CP4,Inhibitory,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1
+CP7,Inhibitory,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1
+CP9,Not Inhibitory,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0
+CP13,Not Inhibitory,0,0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,0,0,1
+CP17,Inhibitory,1,0,1,0,1,1,0,1,0,0,0,0,1,0,1,1,0,0,1
+CP18,Inhibitory,1,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+CP19,Inhibitory,1,0,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,1
+CP20,Not Inhibitory,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,0
+CP26,Not Inhibitory,0,1,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0
+,-,,,,,,,,,,,,,,,,,,,
